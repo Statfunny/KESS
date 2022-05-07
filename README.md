@@ -6,4 +6,4 @@
 <img src="https://user-images.githubusercontent.com/27664894/167245572-005827a4-85db-4109-a5d3-0a159f59f51a.jpg" width=500 height=350>
 
 ### KSESS-V1.0 구성
-<img src="https://user-images.githubusercontent.com/27664894/167246734-f9114dea-2d72-466e-b143-12792b1d6587.png" width=800, height=5000>
+<img src="https://user-images.githubusercontent.com/27664894/167246734-f9114dea-2d72-466e-b143-12792b1d6587.png" width=600, height=3000>
