@@ -3,4 +3,4 @@
 ### KESS-V1.0는 기존 KESS와 별개로 새로운 설계 하에서 개발한 것으로 앞으로 이 프로그램을 중심으로 업그래이드가 진행될 예정입니다. 
 ### 사용과정에서 문제가 발생하거나 추가 요청사항이 있는 경우 inkwon.yeo@gmail.com으로 연락주길 바랍니다.
 ### KESS는 무료 프로그램이긴 하나 상업적 목적으로 사용거나 배포할 때에는 반드시 저(여인권)의 동의를 받고 진행하셔야 합니다.
-<img src="https://user-images.githubusercontent.com/27664894/167245572-005827a4-85db-4109-a5d3-0a159f59f51a.jpg" width=300,height=230>
+<img src="https://user-images.githubusercontent.com/27664894/167245572-005827a4-85db-4109-a5d3-0a159f59f51a.jpg" width=300 height=230>
