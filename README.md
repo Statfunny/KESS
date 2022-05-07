@@ -82,5 +82,4 @@
 |		|	회귀대체(수치)	|		|
 |		|	kNN대체(수치)	|		|
 |		|	자기참조대체(범주형)	|		|
-![image](https://user-images.githubusercontent.com/27664894/167246249-5190a689-1452-488d-bad8-b7532a09a284.png)
 
