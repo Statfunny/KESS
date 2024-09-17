@@ -20,4 +20,5 @@ KESS-V1.0는 기존 KESS와 별개로 새로운 설계 하에서 개발되었으
 KESS는 무료로 제공되고 있으나 상업적 목적으로 사용하거나 배포할 때에는 반드시 저(여인권)의 허락을 받아야 합니다.
 
 ### KESS-V1.24.06 분석메뉴 구성
-![KESS_240517](https://github.com/Statfunny/KESS/assets/27664894/80939003-a4c0-4837-ab50-b5968534f0aa)
+![KESS_V1 24 08](https://github.com/user-attachments/assets/2dcef164-2625-49a5-93f6-ebfac27c97c2)
+
