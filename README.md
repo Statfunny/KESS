@@ -21,4 +21,5 @@ KESS는 무료로 제공되고 있으나 상업적 목적으로 사용하거나 
 
 ### KESS-V1.26.02 분석메뉴 구성
 ![KESS_V1 24 08](https://github.com/user-attachments/assets/2dcef164-2625-49a5-93f6-ebfac27c97c2)
+[KESS.xlsx](https://github.com/user-attachments/files/24693637/KESS.xlsx)
 
