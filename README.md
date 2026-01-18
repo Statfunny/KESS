@@ -10,7 +10,7 @@
 ### KESS2018
 서울대에서 개발한 버전은 KESS2018이며 이 버전에 대한 업그레이드 계획은 현재까지 없습니다.
 
-### KESS-V1.25
+### KESS-V1.26
 <img src="https://user-images.githubusercontent.com/27664894/167245572-005827a4-85db-4109-a5d3-0a159f59f51a.jpg" width=500 height=350>
 
 KESS-V1.26는 기존 KESS와 별개로 새로운 설계 하에서 개발되었으며 앞으로 이 프로그램을 중심으로 업그레이드가 이루어집니다.
